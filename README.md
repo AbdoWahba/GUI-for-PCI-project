@@ -2,6 +2,7 @@
 
 
 ## installation 
+write this commands in terminal of path of project
 ```
 npm install --save electron@4.0.0
 ```
